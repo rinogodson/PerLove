@@ -1,6 +1,3 @@
-// const calcBtn = document.getElementById("button");
-// const output = document.getElementById("button2");
-
 function adder(arr){
     console.log(arr)
     if(arr.length <= 2){
@@ -153,8 +150,5 @@ function heart(str1, str2){
     
 }
 
-// function calculate(){
-//     heart(document.getElementById("person1").value, document.getElementById("person2").value);
-// }
 heart("thridy", "threyya");
 
